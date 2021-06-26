@@ -1,5 +1,6 @@
 # PyTorch Warmup Scheduler
 
+[![PyPI version](https://badge.fury.io/py/pytorch-warmup-scheduler.svg)](https://pypi.org/project/pytorch-warmup-scheduler/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hysts/pytorch_warmup-scheduler/blob/main/notebooks/demo.ipynb)
 
 This is a PyTorch implementation of the warmup scheduler.
